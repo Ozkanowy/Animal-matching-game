@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Animal matching game": {
+      "commandName": "Project",
+      "hotReloadEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
